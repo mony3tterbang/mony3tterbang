@@ -304,11 +304,13 @@ Location   → Selangor, Malaysia
 <img src="https://img.shields.io/badge/GITHUB-mony3tterbang-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<div align="center">
 
-### `$ echo "Thanks for visiting!"`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:0F172A&height=120&section=footer" />
 
-**Building secure systems, one commit at a time.**
+**Thanks for visiting my GitHub profile.**
+
+`Secure systems. Clean architecture. Real impact.`
 
 </div>
 
