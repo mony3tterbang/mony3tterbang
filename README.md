@@ -14,9 +14,9 @@
 
 </div>
 
----
-
-## `$ cat about.txt`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 ```text
 nayli@github ~> cat about.txt
@@ -33,11 +33,9 @@ from blockchain-based certificate verification systems to
 autonomous IoT applications and secure web platforms.
 ```
 
----
-
-## `$ ls ~/projects`
-
-### 🔗 CertifyChain
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 **Blockchain-Based Academic Certificate Verification System**
 
@@ -54,7 +52,9 @@ QR-based verification, and data analytics.
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 ### 🤖 Helperly Robot
 
@@ -67,7 +67,9 @@ real-time monitoring.
 `ESP32` `RFID` `HX711` `Ultrasonic Sensor`  
 `Flask` `MySQL` `REST API` `IoT`
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 ### 📍 Fuel Finder
 
@@ -80,7 +82,9 @@ and real-time database services.
 `Android Studio` `Google Maps API`  
 `Firebase Authentication` `Firebase Realtime Database`
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 ### 📅 Student Appointment System
 
@@ -92,7 +96,9 @@ API access, database-backed scheduling, and secure user management.
 `Laravel` `PHP` `MySQL`  
 `REST API` `Laravel Sanctum` `Postman`
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 ### 🛒 TechHub
 
@@ -103,7 +109,9 @@ frontend technologies and interactive components.
 
 `Bootstrap` `Alpine.js` `HTML` `CSS` `JavaScript`
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 ### 🌐 Enterprise Network Design
 
@@ -114,7 +122,9 @@ design, configuration, connectivity, and management.
 
 `Cisco` `GNS3` `Network Design` `Network Management`
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 ### 🛡️ Secure Code Review
 
@@ -125,7 +135,9 @@ vulnerabilities and defensive coding practices.
 
 `PHP` `CSRF` `XSS` `Security Auditing`
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 ## `$ echo $STACK`
 
@@ -180,9 +192,9 @@ Data Analytics → Power BI · SQL · Data Visualization · Statistics
 Networking     → Cisco · GNS3 · Network Design & Management
 ```
 
----
-
-## `$ cat achievements.txt`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 ```text
 nayli@github ~> cat achievements.txt
@@ -209,9 +221,9 @@ nayli@github ~> cat achievements.txt
    Virtual Innovation Competition 2021
 ```
 
----
-
-## `$ cat certifications.txt`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 ```text
 nayli@github ~> cat certifications.txt
@@ -229,9 +241,9 @@ nayli@github ~> cat certifications.txt
 [2025] Huawei → Data Communication and Network Technology
 ```
 
----
-
-## `$ github --stats`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 <div align="center">
 
@@ -249,9 +261,9 @@ src="https://streak-stats.demolab.com?user=mony3tterbang&theme=tokyonight&hide_b
 
 </div>
 
----
-
-## `$ activity --graph`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 <div align="center">
 
@@ -261,9 +273,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=mony3tterban
 
 </div>
 
----
-
-## `$ cat contact.txt`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 ```text
 nayli@github ~> cat contact.txt
