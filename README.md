@@ -4,13 +4,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=%24+whoami;Nur+Nayli+Athirah;Netcentric+Computing+Student;Cybersecurity+%7C+Blockchain+%7C+Data;Building+Secure+%26+Scalable+Systems" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=%24+whoami;Nur+Nayli+Athirah;Cybersecurity+%7C+Blockchain+%7C+Data;Full-Stack+Developer;Building+Secure+%26+Scalable+Systems"
+/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/UiTM-Shah%20Alam-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Netcentric-Computing-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mony3tterbang&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" />
 
 </div>
 
