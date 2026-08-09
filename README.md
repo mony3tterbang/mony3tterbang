@@ -294,7 +294,7 @@ Location   → Selangor, Malaysia
 
 **Building secure systems, one commit at a time.**
 
-</div>## `$ ./contribution-snake`
+</div>
 
 <div align="center">
 
