@@ -179,11 +179,9 @@ vulnerabilities and defensive coding practices.
 
 <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
 
-<br/>
-
 `Hardhat` · `Ethers.js` · `MetaMask` · `IPFS` · `SHA-256`
 
-<br/><br/>
+<br/>
 
 ### Development Tools
 
