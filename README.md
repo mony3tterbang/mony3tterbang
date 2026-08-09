@@ -200,6 +200,7 @@ nayli@github ~> cat achievements.txt
 🌍 International Representation
    LEAD 2024 — Indonesia
    Global Synergy — Singapore
+   SULAM: International Webinar - India
 
 🥉 Third Place
    Pre-University Matriculation Innovation Competition 2022
