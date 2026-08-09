@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 ```text
@@ -40,7 +40,7 @@ autonomous IoT applications and secure web platforms.
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 **Blockchain-Based Academic Certificate Verification System**
@@ -59,7 +59,7 @@ QR-based verification, and data analytics.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 ### 🤖 Helperly Robot
@@ -74,7 +74,7 @@ real-time monitoring.
 `Flask` `MySQL` `REST API` `IoT`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 ### 📍 Fuel Finder
@@ -89,7 +89,7 @@ and real-time database services.
 `Firebase Authentication` `Firebase Realtime Database`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 ### 📅 Student Appointment System
@@ -103,7 +103,7 @@ API access, database-backed scheduling, and secure user management.
 `REST API` `Laravel Sanctum` `Postman`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 ### 🛒 TechHub
@@ -116,7 +116,7 @@ frontend technologies and interactive components.
 `Bootstrap` `Alpine.js` `HTML` `CSS` `JavaScript`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 ### 🌐 Enterprise Network Design
@@ -129,7 +129,7 @@ design, configuration, connectivity, and management.
 `Cisco` `GNS3` `Network Design` `Network Management`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 ### 🛡️ Secure Code Review
@@ -142,7 +142,7 @@ vulnerabilities and defensive coding practices.
 `PHP` `CSRF` `XSS` `Security Auditing`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 <div align="center">
@@ -197,7 +197,7 @@ Networking     → Cisco · GNS3 · Network Design & Management
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 ```text
@@ -226,7 +226,7 @@ nayli@github ~> cat achievements.txt
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 ```text
@@ -246,7 +246,7 @@ nayli@github ~> cat certifications.txt
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 <div align="center">
@@ -266,7 +266,7 @@ src="https://streak-stats.demolab.com?user=mony3tterbang&theme=tokyonight&hide_b
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 <div align="center">
@@ -278,7 +278,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=mony3tterban
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
 ```text
