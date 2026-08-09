@@ -48,7 +48,11 @@ QR-based verification, and data analytics.
 `Ethereum` `Solidity` `Hardhat` `Ethers.js` `SHA-256` `IPFS`  
 `React` `Node.js` `Express` `PostgreSQL` `Power BI`
 
-[![CertifyChain](https://github-readme-stats.vercel.app/api/pin/?username=mony3tterbang&repo=CertifyChain&theme=tokyonight&hide_border=true)](https://github.com/mony3tterbang/CertifyChain)
+<p>
+  <a href="https://github.com/mony3tterbang/CertifyChain">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-CertifyChain-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
