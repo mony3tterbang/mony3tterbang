@@ -255,14 +255,6 @@ nayli@github ~> cat certifications.txt
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=mony3tterbang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mony3tterbang&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
 <img
 src="https://streak-stats.demolab.com?user=mony3tterbang&theme=tokyonight&hide_border=true"
 />
