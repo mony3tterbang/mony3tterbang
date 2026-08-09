@@ -302,7 +302,10 @@ Location   → Selangor, Malaysia
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:0F172A&height=120&section=footer" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:7C3AED&height=120&section=footer"
+/>
 
 **Thanks for visiting my GitHub profile.**
 
