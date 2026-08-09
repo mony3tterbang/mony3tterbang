@@ -31,12 +31,9 @@ Computer Science (Hons) — Netcentric Computing @ UiTM Shah Alam.
 
 I build systems that are secure, scalable, and data-driven.
 
-My interests sit at the intersection of cybersecurity,
-data analytics, blockchain, IoT, and full-stack development.
+My interests sit at the intersection of cybersecurity, data analytics, blockchain, IoT, and full-stack development.
 
-I enjoy turning technical problems into practical systems —
-from blockchain-based certificate verification systems to
-autonomous IoT applications and secure web platforms.
+I enjoy turning technical problems into practical systems from blockchain-based certificate verification systems to autonomous IoT applications and secure web platforms.
 ```
 
 <p align="center">
