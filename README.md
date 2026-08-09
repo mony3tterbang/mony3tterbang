@@ -1,15 +1,10 @@
-<!-- =========================================================
-     NUR NAYLI ATHIRAH — GITHUB PROFILE README
-     github.com/mony3tterbang
-========================================================= -->
-
 <div align="center">
 
 # `$ whoami`
 
-# Hi, I'm Nur Nayli Athirah 👋
+## Hi, I'm Nur Nayli Athirah 👋
 
-### Netcentric Computing · Cybersecurity · Full-Stack Development · Blockchain · Data Analytics
+**Netcentric Computing · Cybersecurity · Full-Stack Development · Blockchain · Data Analytics**
 
 <p>
   <img src="https://img.shields.io/badge/UiTM-Shah%20Alam-6A0DAD?style=for-the-badge" />
@@ -24,153 +19,13 @@
 ```text
 nayli@github ~> cat about.txt
 
-  Final-year CS (Hons) student @ UiTM Shah Alam — Netcentric Computing.
+Final-year CS (Hons) student @ UiTM Shah Alam — Netcentric Computing.
 
-  I build systems that are secure, scalable, and data-driven.
+I build systems that are secure, scalable, and data-driven.
 
-  My interests sit at the intersection of cybersecurity,
-  full-stack development, blockchain, IoT, and data analytics.
+My interests sit at the intersection of cybersecurity,
+full-stack development, blockchain, IoT, and data analytics.
 
-  I enjoy turning technical problems into practical systems —
-  from blockchain-based certificate verification to autonomous
-  IoT applications and secure web platforms.
-
-nayli@github ~> ls ~/projects
-
-<table> <tr> <td width="50%">
-🔗 CertifyChain
-
-Blockchain-Based Academic Certificate Verification System
-
-Academic certificate issuance and verification platform using blockchain, cryptographic hashing, decentralized storage, and analytics.
-
-Ethereum Solidity SHA-256 IPFS
-React Node.js PostgreSQL Power BI
-
-</td> <td width="50%">
-🤖 Helperly Robot
-
-Autonomous IoT Delivery Robot
-
-IoT-based autonomous delivery system integrating sensors, RFID identification, real-time monitoring, and backend communication.
-
-ESP32 RFID Flask MySQL
-REST API IoT
-
-</td> </tr> <tr> <td width="50%">
-📍 Fuel Finder
-
-Location-Based Android Application
-
-Mobile application for locating fuel stations using location services, Google Maps integration, authentication, and realtime data.
-
-Android Studio Google Maps API
-Firebase Auth Realtime Database
-
-</td> <td width="50%">
-📅 Student Appointment System
-
-Web-Based Appointment Booking Platform
-
-Full-stack appointment management system with API-based communication and authentication.
-
-Laravel PHP MySQL
-REST API Laravel Sanctum Postman
-
-</td> </tr> <tr> <td width="50%">
-🛒 TechHub
-
-Responsive E-Commerce Product Showcase
-
-Responsive frontend application focused on modern web interfaces and interactive product presentation.
-
-Bootstrap Alpine.js
-HTML CSS JavaScript
-
-</td> <td width="50%">
-🌐 Enterprise Network Design
-
-Enterprise Network Architecture
-
-Network architecture and simulation project focusing on enterprise network design and management.
-
-Cisco GNS3
-Network Design Network Management
-
-</td> </tr> <tr> <td colspan="2">
-🛡️ Secure Code Review
-
-Web Application Security Review
-
-Security-focused analysis of web application vulnerabilities and defensive coding practices.
-
-PHP CSRF XSS Security Auditing
-
-</td> </tr> </table>
-
-nayli@github ~> echo $STACK
-Languages
-<p> <img src="https://skillicons.dev/icons?i=java,cpp,js,python,php,html,css" /> </p>
-Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,bootstrap,androidstudio" /> </p>
-Backend & Database
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,flask,laravel,mysql,postgres,firebase" /> </p>
-Blockchain & Web3
-<p> <img src="https://skillicons.dev/icons?i=solidity,ethereum" /> </p>
-
-Hardhat · Ethers.js · MetaMask · IPFS · SHA-256
-
-Tools & Development
-<p> <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,postman" /> </p>
-Other Technical Areas
-IoT            → ESP32 · Arduino IDE · RFID · Sensor Integration
-Cybersecurity  → Information Security · Secure Code Review · CTF
-Data Analytics → Power BI · SQL · Data Visualization · Statistics
-Networking     → Cisco · GNS3 · Network Design & Management
-
-nayli@github ~> cat achievements.txt
-
-  🏆 Champion & Best Participant
-     RENTAS CTF Competition 2024
-
-  📜 Dean's List Award
-     Semester 1 & Semester 5 — UiTM
-
-  🎯 Participant
-     HackINSAN 2024
-     ASEAN Battle of Hackers 2023
-
-  🌍 International Representation
-     LEAD 2024 — Indonesia
-     Global Synergy — Singapore
-
-  🥉 Third Place
-     Pre-University Matriculation Innovation Competition 2022
-
-  🥉 Third Place
-     Virtual Innovation Competition 2021
-
-nayli@github ~> cat certifications.txt
-
-  [2026] Cisco  — Cyber Threat Management
-  [2026] Huawei — HCIA Big Data V3.5
-  [2026] Huawei — HCIA Cloud Service V3.5
-  [2025] Huawei — HCIA Cloud Computing V5.5
-  [2025] Cisco  — Introduction to IoT and Digital Transformation
-  [2025] Huawei — Data Communication and Network Technology
-
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=mony3tterbang&show_icons=true&hide_border=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mony3tterbang&layout=compact&hide_border=true&theme=tokyonight" /> <br/> <img src="https://streak-stats.demolab.com?user=mony3tterbang&theme=tokyonight&hide_border=true" /> </div>
-
-nayli@github ~> cat contact.txt
-
-  Email      → nayliathrh@gmail.com
-  LinkedIn   → linkedin.com/in/nayli-athirah-24b5742b9
-  GitHub     → github.com/mony3tterbang
-  Location   → Selangor, Malaysia
-
-<div align="center"> <a href="mailto:nayliathrh@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/nayli-athirah-24b5742b9"> <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/mony3tterbang"> <img src="https://img.shields.io/badge/GITHUB-mony3tterbang-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
-
-<br/><br/>
-
-nayli@github ~> echo "Thanks for visiting!"
-</div> ```
+I enjoy turning technical problems into practical systems —
+from blockchain-based certificate verification to autonomous
+IoT applications and secure web platforms.
