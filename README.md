@@ -12,8 +12,6 @@
 
 </div>
 
-## `$ system-status`
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Currently%20Learning-Cloud%20%26%20Security-06B6D4?style=for-the-badge" />
