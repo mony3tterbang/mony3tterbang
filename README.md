@@ -92,6 +92,12 @@ and real-time database services.
 `Android Studio` `Google Maps API`  
 `Firebase Authentication` `Firebase Realtime Database`
 
+<p>
+  <a href="https://github.com/mony3tterbang/FuelFinder">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-FuelFinder-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
