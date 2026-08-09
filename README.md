@@ -45,6 +45,8 @@ autonomous IoT applications and secure web platforms.
 
 <img src="https://img.shields.io/badge/FEATURED%20PROJECT-⭐-06B6D4?style=flat-square" />
 
+## 🔗 CertifyChain
+
 **Blockchain-Based Academic Certificate Verification System**
 
 A secure academic certificate issuance and verification platform using
