@@ -12,6 +12,16 @@
 
 </div>
 
+## `$ system-status`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Currently%20Learning-Cloud%20%26%20Security-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Building-CertifyChain-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Blockchain%20%7C%20Data-4F46E5?style=for-the-badge" />
+
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
 </p>
