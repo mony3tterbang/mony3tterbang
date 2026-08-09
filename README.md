@@ -290,4 +290,10 @@ Location   → Selangor, Malaysia
 
 **Building secure systems, one commit at a time.**
 
+</div>## `$ ./contribution-snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mony3tterbang/mony3tterbang/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
