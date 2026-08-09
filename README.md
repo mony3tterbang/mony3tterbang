@@ -139,8 +139,6 @@ vulnerabilities and defensive coding practices.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
 </p>
 
-## `$ echo $STACK`
-
 <div align="center">
 
 ### Languages
