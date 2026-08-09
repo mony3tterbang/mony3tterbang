@@ -43,6 +43,8 @@ autonomous IoT applications and secure web platforms.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:4F46E5&height=3&section=header" width="100%" />
 </p>
 
+<img src="https://img.shields.io/badge/FEATURED%20PROJECT-⭐-06B6D4?style=flat-square" />
+
 **Blockchain-Based Academic Certificate Verification System**
 
 A secure academic certificate issuance and verification platform using
