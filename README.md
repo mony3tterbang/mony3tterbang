@@ -27,7 +27,7 @@
 ```text
 nayli@github ~> cat about.txt
 
-Final-year CS (Hons) student @ UiTM Shah Alam — Netcentric Computing.
+Computer Science (Hons) — Netcentric Computing @ UiTM Shah Alam.
 
 I build systems that are secure, scalable, and data-driven.
 
